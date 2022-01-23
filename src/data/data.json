@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "banda",
+    "img": "./images/banda.png"
+  },
+  {
+    "id": 2,
+    "name": "corona",
+    "img": "./images/corona.png"
+  },
+  {
+    "id": 3,
+    "name": "elef",
+    "img": "./images/elef.png"
+  },
+  {
+    "id": 4,
+    "name": "kaengreeb",
+    "img": "./images/kaengreeb.png"
+  },
+  {
+    "id": 5,
+    "name": "lion",
+    "img": "./images/lion.png"
+  },
+  {
+    "id": 6,
+    "name": "monkey",
+    "img": "./images/monkey.png"
+  },
+  {
+    "id": 7,
+    "name": "selhfat",
+    "img": "./images/selhfat.png"
+  },
+  {
+    "id": 8,
+    "name": "zarafa",
+    "img": "./images/zarafa.png"
+  },
+  {
+    "id": 9,
+    "name": "banda",
+    "img": "./images/banda.png"
+  },
+  {
+    "id": 10,
+    "name": "corona",
+    "img": "./images/corona.png"
+  },
+  {
+    "id": 11,
+    "name": "elef",
+    "img": "./images/elef.png"
+  },
+  {
+    "id": 12,
+    "name": "kaengreeb",
+    "img": "./images/kaengreeb.png"
+  },
+  {
+    "id": 13,
+    "name": "lion",
+    "img": "./images/lion.png"
+  },
+  {
+    "id": 14,
+    "name": "monkey",
+    "img": "./images/monkey.png"
+  },
+  {
+    "id": 15,
+    "name": "selhfat",
+    "img": "./images/selhfat.png"
+  },
+  {
+    "id": 16,
+    "name": "zarafa",
+    "img": "./images/zarafa.png"
+  }
+]
